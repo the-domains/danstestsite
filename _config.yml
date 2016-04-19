@@ -1,14 +1,29 @@
+name: DansTestSite
+favicon: null
 layout_spectrum: 0.8515037
+typography_spectrum: 0.4818296
+title: Test of the Grid
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2341162
-  lightness: 0.9466724
-  brandStrength: 1
   brandColors:
     - '#FFFFFF'
     - '#979797'
     - '#231F20'
     - '#EF1A24'
     - '#BFBFBF'
+  brandStrength: 1
+  lightness: 0.9466724
+  saturation: 0.2341162
   rhythmicContrast: 0.3770904
-typography_spectrum: 0.4818296
-name: DansTestSite
+purpose: []

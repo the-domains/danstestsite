@@ -23,7 +23,7 @@ color:
     - '#EF1A24'
     - '#BFBFBF'
   brandStrength: 1
-  lightness: 0.9466724
-  saturation: 0.2341162
-  rhythmicContrast: 0.3770904
+  lightness: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []

@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.4818296
+color:
+  saturation: 0.2341162
+  lightness: 0.9466724
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#979797'
+    - '#231F20'
+    - '#EF1A24'
+    - '#BFBFBF'
+  rhythmicContrast: 0.3770904
+name: DansTestSite

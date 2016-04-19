@@ -4,8 +4,15 @@
         <description><![CDATA[Test of the Grid]]></description>
         <link>https://thegrid.ai/danstestsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 14:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 14:30:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danstestsite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Server]]></title>
+            <description><![CDATA[<article><h1>Server</h1><p>How might we go about adding links into this sort of thing?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2130afe2-1d02-4f28-ae52-942f93478bcd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/danstestsite/server/index.html</link>
+            <guid isPermaLink="false">510b661d-6b00-43dd-9c06-70a146bf3c09</guid>
+            <pubDate>Tue, 19 Apr 2016 14:30:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Where do we go from here?]]></title>
             <description><![CDATA[<article><h1>Where do we go from here?</h1><p>This is just a simple test, pretty much to see if the AI is capable of stringing a few bits together. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8293f804-e723-42c7-a983-ac377615e50d.jpg"></article>]]></description>

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-09T11:26:20.554Z'
+datePublished: '2016-08-09T11:27:06.170Z'
 sourcePath: _posts/2016-04-19-where-do-we-go-from-here.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-09T11:26:20.044Z'
+dateModified: '2016-08-09T11:27:05.717Z'
 title: Where do we go from here?
 publisher: {}
 description: >-

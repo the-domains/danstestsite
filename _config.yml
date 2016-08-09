@@ -1,20 +1,4 @@
-name: DansTestSite
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.4818296
-title: Test of the Grid
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: DansTestSite
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Test of the Grid
+description: For the very best in training
 purpose: []
